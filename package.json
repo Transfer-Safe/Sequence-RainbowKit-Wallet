@@ -1,6 +1,6 @@
 {
   "name": "sequence-rainbowkit-wallet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "author": "Alexey Landyrev",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Transfer-Safe/Sequence-RainbowKit-Wallet"
+  },
   "devDependencies": {
     "typescript": "^4.7.4"
   },
