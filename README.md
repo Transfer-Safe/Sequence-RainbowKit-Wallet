@@ -2,7 +2,12 @@
 
 [Sequence Wallet](https://sequence.xyz/) connector for [RainbowKit](https://www.rainbowkit.com/) React library.
 
-## Example
+## How to use
+### Install package
+`npm i sequence-rainbowkit-wallet`
+
+### Use it in your code
+
 ```TSX
 import {
   ConnectButton,
